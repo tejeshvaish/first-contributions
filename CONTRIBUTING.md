@@ -1,7 +1,7 @@
 # Contribution guide
 
 Welcome to your first contribution. :heart: vp
-
+Tejesh Vaish
 #### Table Of Contents
 - [Code of Conduct](#code-of-conduct)
 - [Translation Guide](#translation-guide)

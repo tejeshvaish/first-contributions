@@ -1,3 +1,4 @@
+- Tejesh Vaish (https://tejeshvaish.github.io)
 - Subhag Bhatia
 - [Brandon Gioggia](https://github.com/bgioggia)
 - [Kiefer Cover](https://github.com/kcover)
